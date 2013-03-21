@@ -12,7 +12,7 @@ Install Mapnik master on ubuntu:
 
 Install Mapnik master on os x:
 
-    brew udpate
+    brew update
     brew install mapnik --HEAD
 
 ## Usage
