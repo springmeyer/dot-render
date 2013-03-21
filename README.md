@@ -2,7 +2,18 @@
 
 ## Depends
 
- - Mapnik
+ - Mapnik master
+
+Install Mapnik master on ubuntu:
+
+    sudo add-apt-repository ppa:mapnik/nightly-trunk
+    sudo apt-get update
+    sudo apt-get install libmapnik libmapnik-dev
+
+Install Mapnik master on os x:
+
+    brew udpate
+    brew install mapnik --HEAD
 
 ## Usage
 
